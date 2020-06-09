@@ -11,5 +11,4 @@ To get started, you'll need to edit app.yaml to point to your own storage bucket
 ```
 gcloud app deploy
 ```
-```
 
